@@ -1,0 +1,13 @@
+{
+  "name": "Boardcast",
+  "description": "Boardcast Bot By KG,|Luizz#1118",
+  "version": "0.0.0",
+  "main": "bc.js",
+  "scripts": {
+    "start": "node bc.js"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
